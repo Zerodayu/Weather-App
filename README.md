@@ -2,7 +2,7 @@
 
 A modern weather application built with Next.js that showcases API integration skills and provides real-time weather information with a beautiful, responsive interface.
 
-🔗**Live Site**: ["link"](Not Available)
+🔗**Live Site**: [Not Available](#)
 
 ## Screenshots
 
