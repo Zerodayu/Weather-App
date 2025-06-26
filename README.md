@@ -21,21 +21,16 @@ This project demonstrates proficiency in API integration and modern web developm
 ## Key Features
 
 ### API Integration
-- Seamless integration with weather APIs to fetch real-time weather data
-- Efficient data handling and error management for robust API calls
-- Location-based weather detection with geolocation services
+- Seamless integration with weather APIs to fetch real-time weather data. Efficient data handling and error management for robust API calls. Location-based weather detection services
 
 ### Component Library
-- Developed with modular and reusable components to promote scalability and maintainability
-- Weather data visualization components for temperature, humidity, wind speed
+- Developed with modular and reusable components to promote scalability and maintainability. Weather data visualization components for temperature, humidity, wind speed
 
 ### Accessibility & Responsiveness
-- Designed with accessibility in mind and fully responsive across all screen sizes and devices
-- Optimized for mobile-first weather checking experience
+- Designed with accessibility in mind and fully responsive across all screen sizes and devices. Optimized for mobile-first weather checking experience
 
 ### Advanced Weather Features
-- Current weather conditions with detailed metrics
-- Location search functionality
+- Current weather conditions with detailed metrics. Location search functionality
 
 ## Tech Stack
 
